@@ -1,0 +1,29 @@
+organization,review_score,n_reviews,course_name,link,topics,Course Type,Commitment,Start Date,Cost,Class size,Location,Duration,hours_per_week,latitude,longitude
+EXPLORE Data Science Academy,,,Data Science Accredited Skills Programme,,,,,,Tuition & living expenses fully sponsored,,"Cape Town, South Africa",1 Year,,-33.936681,18.456053
+EXPLORE Data Science Academy,,,Data Science Accredited Skills Programme,,,,,,,,"Gauteng, South Africa",1 Year,,-26.19063,28.037126
+The Knowledge Academy,,,Data Science Course,,,In Person,Full-time,,"R28,365",,"Cape Town, South Africa",1 day,,-33.974991,18.549191
+The Knowledge Academy,,,Data Science Course,,,In Person,Full-time,,"R28,365",,"Johannesburg, South Africa",1 day,,-26.17549,28.047238
+The Knowledge Academy,,,Data Science Course,,,In Person,Full-time,,"R28,365",,"Pretoria, South Africa",1 day,,-25.727537,28.245982
+The Knowledge Academy,,,Data Science Course,,,In Person,Full-time,,"R28,365",,"Port Elizabeth, South Africa",1 day,,-33.950335,25.581618
+University of Cape Town GetSmarter,,,Data Analysis Short Cours,,,Online,Part-time,,R14500,,"Cape Town, South Africa",8 weeks,,-33.937436,18.461917
+Nelson Mandela African Institute of Science and Technology,,,Summer School on Machine Learning and Data Science (2017),,,,,,,,"Arusha City, Tanzania",4 days,,-3.399474,36.796646
+Dedan Kimathi University of Technology,,,"Data Science in Africa Workshop (2017)
+",,,,,,,,"Arusha City, Tanzania",2 days,,-3.399474,36.796646
+Dedan Kimathi University of Technology,,,Summer School on Machine Learning and Data Science (2015 & 2018),,,,,,,,"Nyeri, Kenya",4 days,,-0.394897,36.965683
+Addis Ababa University,,,"Data Science in Africa Workshop (2015 & 2018)
+",,,,,,,,"Nyeri, Kenya",2 days,,-0.394897,36.965683
+Addis Ababa University,,,Summer School on Machine Learning and Data Science (2019),,,,,,,,"Addis Ababa, Ethiopia",3 days,,,
+Ashesi University,,,"Data Science in Africa Workshop (2018)
+",,,,,,,,"Addis Ababa, Ethiopia",2 days,,9.033496,38.763864
+Ashesi University,,,Summer School on Machine Learning and Data Science (2019),,,,,,,,"Accra, Ghana",3 days,,5.759603,-0.219995
+African University of Science and Technology,,,"Data Science in Africa Workshop (2019)
+",,,,,,,,"Accra, Ghana",2 days,,5.759603,-0.219995
+African University of Science and Technology,,,Summer School on Machine Learning and Data Science (2018),,,,,,,,"Abuja, Nigeria",3 days,,9.000918,7.421981
+Makerere University,,,"Data Science in Africa Workshop (2018)
+",,,,,,,,"Abuja, Nigeria",2 days,,9.000918,7.421981
+Makerere University,,,"Data Science in Africa Workshop (2016 & 2020)
+",,,,,,,,"Kampala, Uganda",2 days,,0.328886,32.570372
+Makerere University,,,Summer School on Machine Learning and Data Science (2016 & 2020),,,,,,,,"Kampala, Uganda",3 days,,0.328886,32.570372
+Makerere University,,,"Gaussian Process School Data Science in Africa Workshop (2013)
+",,,,,,,,"Kampala, Uganda",2 days,,0.328886,32.570372
+Makerere University,,,Gaussian Process School Summer School on Machine Learning and Data Science (2013),,,,,,,,"Kampala, Uganda",3 days,,0.328886,32.570372
